@@ -1,1 +1,13 @@
-{}
+{
+  "grilling": {
+    "sources": [
+      {
+        "repo": "mattpocock/skills",
+        "path": "skills/productivity/grilling/SKILL.md",
+        "branch": "main",
+        "last_reviewed_sha": "e5932a7a47e5cae312c1b814ce6194b09aa27be1",
+        "last_reviewed_at": "2026-07-12"
+      }
+    ]
+  }
+}
