@@ -10,5 +10,17 @@
         "last_snapshot_file": "snapshots/grilling/40285014.md"
       }
     ]
+  },
+  "humanizer": {
+    "sources": [
+      {
+        "repo": "blader/humanizer",
+        "path": "SKILL.md",
+        "branch": "main",
+        "last_reviewed_sha": "1b48564898e999219882660237fde01bf4843a0f",
+        "last_reviewed_at": "2026-07-12",
+        "last_snapshot_file": "snapshots/humanizer/e8b459f3.md"
+      }
+    ]
   }
 }
