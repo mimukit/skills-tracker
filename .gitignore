@@ -1,0 +1,6 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# Do NOT ignore snapshots/ — the scheduled drift check needs the committed
+# baseline (upstream SKILL.md at your last review) to detect what changed.

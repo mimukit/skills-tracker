@@ -1,0 +1,14 @@
+{
+  "example-skill": {
+    "local": "path/to/your/local/SKILL.md",
+    "sources": [
+      {
+        "repo": "owner/repo",
+        "path": "SKILL.md",
+        "branch": "main",
+        "last_reviewed_sha": null,
+        "last_reviewed_at": null
+      }
+    ]
+  }
+}
