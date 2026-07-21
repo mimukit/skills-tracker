@@ -70,5 +70,17 @@
         "last_snapshot_file": "snapshots/implement/28d2cc9d.md"
       }
     ]
+  },
+  "code-review": {
+    "sources": [
+      {
+        "repo": "mattpocock/skills",
+        "path": "skills/engineering/code-review/SKILL.md",
+        "branch": "main",
+        "last_reviewed_sha": "14c13c5bf9ec1bee9926c0c1f388534f0b9ab8e8",
+        "last_reviewed_at": "2026-07-21",
+        "last_snapshot_file": "snapshots/code-review/aa3e0316.md"
+      }
+    ]
   }
 }
