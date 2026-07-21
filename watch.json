@@ -58,5 +58,17 @@
         "last_snapshot_file": "snapshots/setup-matt-pocock-skills/58c1779f.md"
       }
     ]
+  },
+  "implement": {
+    "sources": [
+      {
+        "repo": "mattpocock/skills",
+        "path": "skills/engineering/implement/SKILL.md",
+        "branch": "main",
+        "last_reviewed_sha": "386d4ff719a7c420ad1454232d0436b01f1b8c17",
+        "last_reviewed_at": "2026-07-21",
+        "last_snapshot_file": "snapshots/implement/28d2cc9d.md"
+      }
+    ]
   }
 }
