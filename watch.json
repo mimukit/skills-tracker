@@ -34,5 +34,17 @@
         "last_snapshot_file": "snapshots/handoff/a7fc0784.md"
       }
     ]
+  },
+  "to-tickets": {
+    "sources": [
+      {
+        "repo": "mattpocock/skills",
+        "path": "skills/engineering/to-tickets/SKILL.md",
+        "branch": "main",
+        "last_reviewed_sha": "ed37663cc5fbef691ddfecd080dff42f7e7e350d",
+        "last_reviewed_at": "2026-07-21",
+        "last_snapshot_file": "snapshots/to-tickets/72d9308b.md"
+      }
+    ]
   }
 }
