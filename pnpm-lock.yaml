@@ -374,16 +374,16 @@ importers:
   .:
     devDependencies:
       skills-watcher-cli:
-        specifier: ^0.1.0
-        version: 0.1.0
+        specifier: ^1.0.0
+        version: 1.0.0
 
 packages:
 
-  skills-watcher-cli@0.1.0:
-    resolution: {integrity: sha512-9HFY+eSBCUDLAt4cBZ9j8EQcxajL6XGscrlnJ5SG8cGefihHv5LoNGNBUSxnJHg+ZKEXU3iDbucFHNYxF3+nKQ==}
+  skills-watcher-cli@1.0.0:
+    resolution: {integrity: sha512-8oUGAooGJZEBcQjul7AsE/Rx+0IBQJPrGBl2WQIRduRPrVRFgZeUWdW5AUoF3LpOfyyAjVDo3OpBYUyqOg1SVA==}
     engines: {node: '>=18.17'}
     hasBin: true
 
 snapshots:
 
-  skills-watcher-cli@0.1.0: {}
+  skills-watcher-cli@1.0.0: {}

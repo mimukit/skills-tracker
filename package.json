@@ -18,6 +18,6 @@
   },
   "type": "module",
   "devDependencies": {
-    "skills-watcher-cli": "^0.1.0"
+    "skills-watcher-cli": "^1.0.0"
   }
 }
