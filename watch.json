@@ -106,5 +106,17 @@
         "last_snapshot_file": "snapshots/improve-codebase-architecture/6b1f2b27.md"
       }
     ]
+  },
+  "teach": {
+    "sources": [
+      {
+        "repo": "mattpocock/skills",
+        "path": "skills/productivity/teach/SKILL.md",
+        "branch": "main",
+        "last_reviewed_sha": "aa024cb1954fedbc8221967c080fa40b9867f994",
+        "last_reviewed_at": "2026-08-18",
+        "last_snapshot_file": "snapshots/teach/7d2ee574.md"
+      }
+    ]
   }
 }
